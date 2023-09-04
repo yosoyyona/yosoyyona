@@ -1,6 +1,7 @@
 ### Hi there 👋, Yeonhwa Park
 #### Web Development
 ![Web Development](https://github.com/yosoyyona/yosoyyona/blob/main/banner.png)
+
 I'm Yeonhwa from South Korea. I enjoy working with the interactive and responsive web. So far I have experience with HTML, CSS, JS and React, and I'm looking forward to learning other languages and frameworks. 
 
 Skills: REACT / JS / HTML / CSS
