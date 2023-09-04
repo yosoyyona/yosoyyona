@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Yeonhwa from South Korea. I enjoy working with the interactive and responsive web. So far I have experience with HTML, CSS, JS and React, and I'm looking forward to learning other languages and frameworks. 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yosoyyona)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **yosoyyona/yosoyyona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
