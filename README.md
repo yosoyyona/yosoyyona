@@ -1,20 +1,16 @@
-### Hi there 👋
+### Hi there 👋, Yeonhwa Park
+#### Web Development
+![Web Development](https://www.linkedin.com/in/yeonhwa-park/overlay/background-image/)
 
 I'm Yeonhwa from South Korea. I enjoy working with the interactive and responsive web. So far I have experience with HTML, CSS, JS and React, and I'm looking forward to learning other languages and frameworks. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yosoyyona)](https://github.com/anuraghazra/github-readme-stats)
+Skills: REACT / JS / HTML / CSS
 
-<!--
-**yosoyyona/yosoyyona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yosoyyona)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yeonhwa-park/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/yonayona)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/yosoyyona)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://yosoyyona.github.io/blog/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yosoyyona)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yosoyyona&show_icons=true)  
+
